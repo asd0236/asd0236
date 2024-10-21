@@ -1,6 +1,7 @@
 ## Hello World ! 👋
 
-
+![Sanghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=asd0236&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd0236)](https://solved.ac/asd0236/)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <br><br><br>
